@@ -10,7 +10,10 @@ public class Class2 {
     }
 
     public void f2(){
-        // v1.0
+        // v2.0
+    }
+    public void f3(){
+        // v3.0
     }
 
 }
