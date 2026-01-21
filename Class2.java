@@ -17,5 +17,8 @@ public class Class2 {
         System.out.println("Hotflix applied to f3");
 
     }
+    public void f4(){
+        // v4.0
+    }
 
 }
