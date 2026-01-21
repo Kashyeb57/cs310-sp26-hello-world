@@ -15,4 +15,8 @@ public class HelloWorld {
         // v1.0
     }
 
+    public void f2() {
+        // v1.0
+    }
+
 }
