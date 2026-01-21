@@ -23,4 +23,8 @@ public class HelloWorld {
         // v3.0
     }
 
+    public void f4() {
+        // v4.0
+    }
+
 }

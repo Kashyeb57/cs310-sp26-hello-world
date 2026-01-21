@@ -15,5 +15,8 @@ public class Class2 {
     public void f3(){
         // v3.0
     }
+    public void f4(){
+        // v4.0
+    }
 
 }
