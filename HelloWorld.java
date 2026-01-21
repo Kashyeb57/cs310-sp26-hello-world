@@ -21,6 +21,7 @@ public class HelloWorld {
 
     public void f3() {
         // v3.0
+        System.out.println("Hotflix applied to f3");
     }
 
 }
